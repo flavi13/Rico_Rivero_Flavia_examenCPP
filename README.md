@@ -29,21 +29,33 @@ Aspectos Adicionales:
 Si utilizas referencias externas, inclúyelas en el README.md.
 
 ## Parte 2: Problemas de Codificación (70 puntos en total)
+"He decidido hacer todo en el main.cpp separado por comentarios con los ejercicios, aunque se puede dividir en carpetas y en el main.cpp dirigir el código a estas carpetas"
+
 ##### Ejercicio 1: Identificación de Número Positivo, Negativo o Cero
+
 Escribe un programa en C++ que solicite al usuario ingresar un número entero. El programa deberá analizar el número ingresado e imprimir en pantalla si el número es "positivo", "negativo" o "cero".
+
+(En este ejercicio se pide al usuario un numero y a traves de una condición se averigua si el numero es positivo, negativo o cero, este ejercicio está explicado detalladamente en el código)
 
 "He utilizado copilot en este ejercicio"
 ##### Ejercicio 2: Día de la Semana
 Crea un programa en C++ que solicite al usuario ingresar un número del 1 al 7. El programa deberá imprimir el nombre del día de la semana correspondiente al número ingresado (por ejemplo, 1 para lunes, 2 para martes, ..., 7 para domingo).
 
+(En este ejercicio se pide al usuario que ingrese nuevamente un numero del 1 al 7, cuando es recibido se introduce en un bucle switch el cual termina cuando se da una instrucción de "break" para que salga de este bucle y se imprima el resultado, además, si el numero no está entre este intervalo se dará un mensaje de mensaje invalido al usuario)
 "He utilizado copilot en este ejercicio"
+
 ##### Ejercicio 3: Cálculo de Promedio de Calificaciones
 Un estudiante ha completado un curso de programación avanzada en C++. Durante el curso, ha realizado 8 ejercicios prácticos, y cada ejercicio se califica con una nota entre 0 y 10. Escribe un programa que solicite al usuario introducir las calificaciones obtenidas por el estudiante en cada uno de los 8 ejercicios. El programa deberá calcular y mostrar el promedio de las calificaciones.
 
+( En este ejrcicio se pide al usuario que introduzca ocho numeros los cuales son de ejercicios distintos y cuando se tienen se introducen en una función suma para que de el resultado promedio de los ocho )
 "He utilizado copilot en este ejercicio"
+
 ##### Ejercicio 4: Promoción de "3 por 2" en Tienda
 En una tienda se está ofreciendo una promoción en la cual el cliente puede llevarse tres artículos y pagar solo por los dos artículos más caros. Escribe un programa en C++ que solicite al usuario ingresar los precios de tres artículos y, como resultado, muestre el total que el cliente debe pagar bajo esta promoción.
 
+(En este ejercicio se pide al usuario que ingrese el precio de los tres productos y con una funcion total se determina lo que verdaderamente tiene que pagar el usuario)
 "He utilizado copilot en este ejercicio"
 
 "He decidido hacer todo en el main.cpp separado por comentarios con los ejercicios"
+
+"Todos los ejercicios están más minuciosamente explicados en el mismo código"
