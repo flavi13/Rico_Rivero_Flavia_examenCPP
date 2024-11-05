@@ -45,3 +45,5 @@ Un estudiante ha completado un curso de programación avanzada en C++. Durante e
 En una tienda se está ofreciendo una promoción en la cual el cliente puede llevarse tres artículos y pagar solo por los dos artículos más caros. Escribe un programa en C++ que solicite al usuario ingresar los precios de tres artículos y, como resultado, muestre el total que el cliente debe pagar bajo esta promoción.
 
 "He utilizado copilot en este ejercicio"
+
+"He decidido hacer todo en el main.cpp separado por comentarios con los ejercicios"
